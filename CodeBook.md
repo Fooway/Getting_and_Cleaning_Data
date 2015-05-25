@@ -7,7 +7,7 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 The data set for the project was download from the following link :
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
 
-To clean the raw data, the run_analysis.R script carry out the following operations.
+To clean the raw data, the run_analysis.R script carries out the following operations.
 
 1)Read X_train.txt, y_train.txt and subject_train.txt from the "./RawData/train" directory and store them in x_train_data, y_train_data and subject_train_data variables respectively.
 
